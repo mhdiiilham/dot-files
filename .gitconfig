@@ -1,0 +1,17 @@
+[user]
+	name = Muhammad Ilham
+	email = muhd.iiilham@gmail.com
+
+[url "git@bitbucket.org:"]
+	insteadOf = https://bitbucket.org/
+
+[alias]
+	st = status
+	co = checkout
+	po = pull origin
+	cob = checkout -b
+	rs = reset HEAD --hard
+
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+
